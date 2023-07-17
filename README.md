@@ -1,0 +1,2 @@
+# ALU_basic_calculator
+A basic calculator implementation in verilog
